@@ -17,7 +17,6 @@
 This app reproduces the scrolling effect of the Chanel mobile app. It's using [useAnimatedStyle](https://docs.swmansion.com/react-native-reanimated/docs/next/api/useAnimatedStyle/) and [interpolate](https://docs.swmansion.com/react-native-reanimated/docs/1.x.x/nodes/interpolate/) from [react-native-animated](https://docs.swmansion.com/react-native-reanimated/) to control the height of each container. It's
 also using [useAnimatedScrollHandler](https://docs.swmansion.com/react-native-reanimated/docs/api/useAnimatedScrollHandler/) to identify the y position of each card.
 
-Thanks to [Willian Candillon](https://github.com/wcandillon/can-it-be-done-in-react-native)
 
 ## 🚀 Tecnologies
 - [React Native](https://facebook.github.io/react-native/)
